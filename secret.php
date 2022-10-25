@@ -10,6 +10,7 @@
         <meta name="author" content="Jackoua">
 </header>
 <body>
+    <?php include('secretthingy.php') ?>
     <script src="https://gist.github.com/Salamek/6412607.js"></script>
         </body>
         </html>
